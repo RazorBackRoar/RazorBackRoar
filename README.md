@@ -1,37 +1,25 @@
-# Howdy! 🤠 I'm RazorBackRoar
+# Howdy! I'm RazorBackRoar
 
-Welcome to my corner of GitHub, y'all.
+Developer from the South building productivity tools and helping macOS users access great software.
 
-## 🍎 About Me
-I'm a passionate Apple developer who's all-in on the ecosystem – by choice, not by chance. From my MacBook to my iPhone, every tool I use is Apple, and that's the way I like it fixin' things. My goal is to take that passion and eventually join the team in Cupertino, building the products I use every day.
+## 🍎 What I'm Working On
 
-## 🤠 Currently Rustlin' Up
-- **Organizational Apps** - Building tools to help teams and individuals stay productive
-- **UI/UX Design** - Crafting interfaces that are intuitive and look sharp as a tack
-- **Portfolio Development** - Showing off projects that fit Apple's design philosophy
+**Productivity Apps** – Python-based tools to help people stay organized and get things done  
+**macOS Guides** – Creating detailed tutorials so Mac users can run cross-platform projects  
+**UI/UX Design** – Learning to craft intuitive interfaces that feel right
 
-## 💻 Tech I'm Ridin' With
-- **Native iOS/macOS Development** - Swift & SwiftUI
-- **Apple Design Guidelines** - I follow the Human Interface Guidelines like the good book
-- **Xcode & Apple Developer Tools** - My daily drivers
-- **Apple Hardware** - Developing on Mac, testing on real devices
-- **Apple Frameworks** - Core Data, CloudKit, WidgetKit, and more
-- **Design Philosophy** - I'm into Apple's principles of simplicity and elegance
+## 💻 My Stack
 
-## 🎯 What I'm Aimin' For
-Building a portfolio that shows deep Apple ecosystem expertise. Every project I build demonstrates my commitment to Apple's standards for innovation, design, and seamless user experiences.
+Python • macOS Development • Cross-Platform Tools  
+Apple Design Guidelines • User Documentation
 
-## 📫 Holler At Me
-- **GitHub**: You're already here, partner
-- **Collaboration**: I'm open to interesting projects
+## 🎯 What Drives Me
 
-## 🌟 Southern Facts
-- **Pronouns**: He/Him
-- **Location**: Somewhere in the South 🇺🇸
-- **Motto**: "Bless your heart, but that code needs work"
+I'm passionate about the Apple ecosystem and want to eventually work at Apple, building the products I use every day. Right now I'm focused on creating useful tools and helping the Mac community get more out of great software.
 
----
+## 📫 Get In Touch
 
-*Y'all come back now, ya hear?*
+Open to collaboration on projects. Reach out through GitHub.
 
-**Currently fixin':** Making open-source tools work right on macOS. If you need a duplicate file finder for your Mac, check out my [Czkawka guide](https://github.com/qarmin/czkawka/issues/1570).
+**Pronouns:** He/Him  
+**Location:** The South 🇺🇸
