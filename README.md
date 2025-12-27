@@ -8,6 +8,10 @@ Developer from the South building productivity tools and helping macOS users acc
 **macOS Guides** – Creating detailed tutorials so Mac users can run cross-platform projects  
 **UI/UX Design** – Learning to craft intuitive interfaces that feel right
 
+## 📚 Resources
+
+- [**Czkawka macOS Guide**](https://gist.github.com/RazorBackRoar/72da40ac935961809722b45fcb5c86ae) – Complete installation guide for Czkawka on macOS
+
 ## 💻 My Stack
 
 Python • macOS Development • Cross-Platform Tools  
