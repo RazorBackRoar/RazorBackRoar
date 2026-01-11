@@ -4,9 +4,9 @@ Developer from the South building productivity tools and helping macOS users acc
 
 ## 🍎 What I'm Working On
 
-**Productivity Apps** – Python-based tools to help people stay organized and get things done  
-**macOS Guides** – Creating detailed tutorials so Mac users can run cross-platform projects  
-**UI/UX Design** – Learning to craft intuitive interfaces that feel right
+- **Productivity Apps** – Python-based tools to help people stay organized and get things done
+- **macOS Guides** – Creating detailed tutorials so Mac users can run cross-platform projects
+- **UI/UX Design** – Learning to craft intuitive interfaces that feel right
 
 ## 📚 Resources
 
@@ -14,8 +14,8 @@ Developer from the South building productivity tools and helping macOS users acc
 
 ## 💻 My Stack
 
-Python • macOS Development • Cross-Platform Tools  
-Apple Design Guidelines • User Documentation
+`Python` • `macOS Development` • `Cross-Platform Tools`
+`Apple Design Guidelines` • `User Documentation`
 
 ## 🎯 What Drives Me
 
@@ -25,5 +25,5 @@ I'm passionate about the Apple ecosystem and want to eventually work at Apple, b
 
 Open to collaboration on projects. Reach out through GitHub.
 
-**Pronouns:** He/Him  
-**Location:** The South 🇺🇸
+- **Pronouns:** He/Him
+- **Location:** The South 🇺🇸
