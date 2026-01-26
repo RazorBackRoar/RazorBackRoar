@@ -1,6 +1,10 @@
+<div align="center">
+
 # Howdy! I'm RazorBackRoar
 
 Developer from the South building productivity tools and helping macOS users access great software.
+
+</div>
 
 ## 🍎 What I'm Working On
 
@@ -12,10 +16,22 @@ Developer from the South building productivity tools and helping macOS users acc
 
 - [**Czkawka macOS Guide**](https://gist.github.com/RazorBackRoar/72da40ac935961809722b45fcb5c86ae) – Complete installation guide for Czkawka on macOS
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RazorBackRoar&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorBackRoar&layout=compact&theme=radical" height="150" alt="languages graph"  />
+</div>
+
 ## 💻 My Stack
 
-`Python` • `macOS Development` • `Cross-Platform Tools`
-`Apple Design Guidelines` • `User Documentation`
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
 
 ## 🎯 What Drives Me
 
