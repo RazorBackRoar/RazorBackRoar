@@ -36,13 +36,13 @@ Southern developer building macOS-native tools — focused on the Apple ecosyste
 
 ## Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Python](https://img.shields.io/badge/python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-e8710a.svg?style=for-the-badge&logo=rust&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-d32f2f?style=for-the-badge&logo=apple&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-2-f5c518?style=for-the-badge&logo=tauri&logoColor=black)
 
 ## Contact
 
-Open to collaboration — reach out through GitHub.
+We'll be happy to work with you.
 
 **Pronouns:** He/Him · **Location:** The South 🇺🇸
