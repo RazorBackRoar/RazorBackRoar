@@ -39,10 +39,10 @@ Southern developer building macOS-native tools — focused on the Apple ecosyste
 ![Python](https://img.shields.io/badge/python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-e8710a.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-d32f2f?style=for-the-badge&logo=apple&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-2-f5c518?style=for-the-badge&logo=tauri&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-2-f5c518?style=for-the-badge&logo=tauri&logoColor=white&labelColor=f5c518)
 
 ## Contact
 
-We'll be happy to work with you.
+If you need me, give me a holler.
 
 **Pronouns:** He/Him · **Location:** The South 🇺🇸
