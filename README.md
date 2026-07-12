@@ -23,7 +23,7 @@
 | [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
 | [**RyuSync**](https://github.com/RazorBackRoar/RyuSync) | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview | Python · PySide6 | [v1.0.1](https://github.com/RazorBackRoar/RyuSync/releases) |
 | [**Rusty**](https://github.com/RazorBackRoar/Rusty) | Exact duplicate photo & video finder with BLAKE3 hashing and quarantine | Rust · Tauri 2 | [v0.2.1](https://github.com/RazorBackRoar/Rusty/releases) |
-| [**L!bra**](https://github.com/RazorBackRoar/Libra) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | [v1.0.0](https://github.com/RazorBackRoar/Libra/releases) |
+| [**L!bra**](https://github.com/RazorBackRoar/Libra) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | [v1.0.1](https://github.com/RazorBackRoar/Libra/releases) |
 | [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | [v1.0.0](https://github.com/RazorBackRoar/MetaBurn/releases) |
 
 All apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** (ad-hoc signed builds).
