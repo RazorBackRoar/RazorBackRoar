@@ -8,8 +8,8 @@
 [![Nexus](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
 [![RyuSync](https://img.shields.io/badge/RyuSync-v1.0.0-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
 [![Rusty](https://img.shields.io/badge/Rusty-v0.2.1-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Rusty/releases)
-[![L!bra](https://img.shields.io/badge/L!bra-v1.0.0-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra)
-[![MetaBurn](https://img.shields.io/badge/MetaBurn-v1.0.0-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn)
+[![L!bra](https://img.shields.io/badge/L!bra-v1.0.0-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
+[![MetaBurn](https://img.shields.io/badge/MetaBurn-v1.0.0-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
 
 </div>
 
@@ -23,10 +23,10 @@
 | [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
 | [**RyuSync**](https://github.com/RazorBackRoar/RyuSync) | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview | Python · PySide6 | [v1.0.0](https://github.com/RazorBackRoar/RyuSync/releases) |
 | [**Rusty**](https://github.com/RazorBackRoar/Rusty) | Exact duplicate photo & video finder with BLAKE3 hashing and quarantine | Rust · Tauri 2 | [v0.2.1](https://github.com/RazorBackRoar/Rusty/releases) |
-| [**L!bra**](https://github.com/RazorBackRoar/Libra) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | pre-release |
-| [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | pre-release |
+| [**L!bra**](https://github.com/RazorBackRoar/Libra/releases) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | [v1.0.0](https://github.com/RazorBackRoar/MetaBurn/releases) |
+| [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn/releases) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | pre-release |
 
-Released apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** (ad-hoc signed builds).
+All apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** (ad-hoc signed builds).
 
 ---
 
