@@ -3,7 +3,9 @@
 Thanks for your interest in contributing to **RazorBackRoar**
 ([RazorBackRoar/RazorBackRoar](https://github.com/RazorBackRoar/RazorBackRoar)).
 
-This guide matches the RazorBackRoar organization standard. ## Code of Conduct
+This guide matches the RazorBackRoar organization standard.
+
+## Code of Conduct
 
 Participation is governed by our [Code of Conduct](CODE_OF_CONDUCT.md).
 By contributing, you agree to uphold it.
