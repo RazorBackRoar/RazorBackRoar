@@ -11,11 +11,16 @@
 [![L!bra](https://img.shields.io/badge/L!bra-v1.0.0-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
 [![MetaBurn](https://img.shields.io/badge/MetaBurn-v1.0.0-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
 
+<br/>
+<a href="https://github.com/RazorBackRoar/RazorBackRoar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RazorBackRoar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
+
 </div>
 
 ---
 
-## Apps
+<h2 align="center">Apps</h2>
 
 | App | What it does | Stack | Latest |
 |-----|--------------|-------|--------|
@@ -30,11 +35,11 @@ All apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** 
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
 Southern developer building macOS-native tools — focused on the Apple ecosystem, clean UX, and software that stays out of your way.
 
-## Stack
+<h2 align="center">Stack</h2>
 
 ![Python](https://img.shields.io/badge/python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-e8710a.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -42,8 +47,9 @@ Southern developer building macOS-native tools — focused on the Apple ecosyste
 ![macOS](https://img.shields.io/badge/mac%20os-d32f2f?style=for-the-badge&logo=apple&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-f5c518?style=for-the-badge&logo=tauri&logoColor=white)
 
-## Contact
+<h2 align="center">Contact</h2>
 
 If you need me, give me a holler.
 
-**Pronouns:** He/Him · **Location:** The South 🇺🇸
+- **Pronouns:** He/Him
+- **Location:** The South 🇺🇸
