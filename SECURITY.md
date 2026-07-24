@@ -4,10 +4,10 @@ RazorBackRoar takes security seriously. This policy applies to **RazorBackRoar**
 
 ## Supported Versions
 
-| Version | Supported |
-|---------|-----------|
-| Latest release on `main` | Yes |
-| Older releases | Best effort |
+| Version                  | Supported   |
+| ------------------------ | ----------- |
+| Latest release on `main` | Yes         |
+| Older releases           | Best effort |
 
 Security fixes ship on `main` and in the next published release when applicable.
 
@@ -18,7 +18,7 @@ Security fixes ship on `main` and in the next published release when applicable.
 Preferred reporting channels (in order):
 
 1. **GitHub Private Vulnerability Reporting** — use [Report a vulnerability](https://github.com/RazorBackRoar/RazorBackRoar/security/advisories/new) on this repository when enabled.
-2. **Maintainer contact** — message [@RazorBackRoar](https://github.com/RazorBackRoar) on GitHub with a clear subject such as `SECURITY: RazorBackRoar`.
+2. **Maintainer contact** — email the address listed on the [@RazorBackRoar](https://github.com/RazorBackRoar) GitHub profile with a clear subject such as `SECURITY: RazorBackRoar`.
 
 Include as much of the following as you can:
 
