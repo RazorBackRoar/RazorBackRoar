@@ -4,10 +4,10 @@ RazorBackRoar takes security seriously. This policy applies to **RazorBackRoar**
 
 ## Supported Versions
 
-| Version | Supported |
-|---------|-----------|
-| Latest release on `main` | Yes |
-| Older releases | Best effort |
+| Version                  | Supported   |
+| ------------------------ | ----------- |
+| Latest release on `main` | Yes         |
+| Older releases           | Best effort |
 
 Security fixes ship on `main` and in the next published release when applicable.
 
