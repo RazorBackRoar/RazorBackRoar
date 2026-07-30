@@ -59,8 +59,8 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement by emailing the address listed on the
-[@RazorBackRoar](https://github.com/RazorBackRoar) GitHub profile.
+reported to the community leaders responsible for enforcement by sending an
+email to the address listed on the [@RazorBackRoar](https://github.com/RazorBackRoar) GitHub profile.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
