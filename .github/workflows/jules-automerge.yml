@@ -20,20 +20,29 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ github.repository }}
+          EVENT_NAME: ${{ github.event_name }}
+          WORKFLOW_RUN_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+          WORKFLOW_RUN_HEAD_BRANCH: ${{ github.event.workflow_run.head_branch }}
+          HEAD_REF: ${{ github.head_ref }}
         run: |
           set -euo pipefail
           
-          if [ "${{ github.event_name }}" = "workflow_run" ]; then
-            if [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
+          if [ "$EVENT_NAME" = "workflow_run" ]; then
+            if [ "$WORKFLOW_RUN_CONCLUSION" != "success" ]; then
               echo "CI did not succeed. Skipping."
               exit 0
             fi
-            HEAD_BRANCH="${{ github.event.workflow_run.head_branch }}"
+            HEAD_BRANCH="$WORKFLOW_RUN_HEAD_BRANCH"
           else
-            HEAD_BRANCH="${{ github.head_ref }}"
+            HEAD_BRANCH="$HEAD_REF"
           fi
 
           if [ -z "$HEAD_BRANCH" ] || [ "$HEAD_BRANCH" = "main" ] || [ "$HEAD_BRANCH" = "master" ]; then
+            exit 0
+          fi
+
+          if [[ ! "$HEAD_BRANCH" =~ ^(sentinel-|bolt-|palette-) ]]; then
+            echo "Branch $HEAD_BRANCH does not match allowed prefixes. Skipping."
             exit 0
           fi
 
