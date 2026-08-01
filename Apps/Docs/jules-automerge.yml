@@ -24,9 +24,15 @@ jobs:
           WORKFLOW_RUN_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
           WORKFLOW_RUN_HEAD_BRANCH: ${{ github.event.workflow_run.head_branch }}
           HEAD_REF: ${{ github.head_ref }}
+          ACTOR: ${{ github.actor }}
         run: |
           set -euo pipefail
           
+          if [ "$ACTOR" != "RazorBackRoar" ]; then
+            echo "Unauthorized actor $ACTOR. Skipping."
+            exit 0
+          fi
+
           if [ "$EVENT_NAME" = "workflow_run" ]; then
             if [ "$WORKFLOW_RUN_CONCLUSION" != "success" ]; then
               echo "CI did not succeed. Skipping."
