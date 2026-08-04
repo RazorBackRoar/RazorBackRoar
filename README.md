@@ -4,12 +4,12 @@
 
 **Native macOS apps for Apple Silicon** — built with Python/PySide6, Rust/Tauri, and Swift/SwiftUI.
 
-[![4Charm](https://img.shields.io/badge/4Charm-v2.0.0-green?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/4Charm/releases)
-[![Nexus](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
-[![RyuSync](https://img.shields.io/badge/RyuSync-v1.0.1-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
-[![Rusty](https://img.shields.io/badge/Rusty-v0.2.1-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Rusty/releases)
-[![L!bra](https://img.shields.io/badge/L!bra-v1.0.0-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
-[![MetaBurn](https://img.shields.io/badge/MetaBurn-v1.0.0-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
+[![4Charm latest release](https://img.shields.io/badge/4Charm-v2.0.0-green?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/4Charm/releases)
+[![Nexus latest release](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
+[![RyuSync latest release](https://img.shields.io/badge/RyuSync-v1.0.1-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
+[![Rusty latest release](https://img.shields.io/badge/Rusty-v0.2.1-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Rusty/releases)
+[![L!bra latest release](https://img.shields.io/badge/L!bra-v1.0.0-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
+[![MetaBurn latest release](https://img.shields.io/badge/MetaBurn-v1.0.0-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
 
 <br/>
 <a href="https://github.com/RazorBackRoar/RazorBackRoar">
@@ -49,7 +49,7 @@ Southern developer building macOS-native tools — focused on the Apple ecosyste
 
 <h2 align="center">Contact</h2>
 
-If you need me, give me a holler.
+If you need to reach me, please email the address listed on my GitHub profile.
 
 - **Pronouns:** He/Him
 - **Location:** The South 🇺🇸
