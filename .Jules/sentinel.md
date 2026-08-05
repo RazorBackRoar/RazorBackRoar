@@ -9,3 +9,9 @@
 **Vulnerability:** Workflows used inline template injection (`${{ github.head_ref }}`) inside `run` blocks for events (`pull_request_target`) where the reference is controlled by external users. This allowed arbitrary code execution.
 **Learning:** GitHub Actions templating is evaluated _before_ the bash script is run. Injecting un-sanitized context variables (like PR branches or titles) directly into scripts leads to command injection vulnerabilities.
 **Prevention:** Always map context variables (like `github.head_ref` or `github.event.pull_request.title`) to environment variables (`env:`) and reference them in bash as `$ENV_VAR`.
+
+## 2026-08-05 - Authorization Bypass in GitHub Actions via pull_request_target
+
+**Vulnerability:** A `pull_request_target` workflow with write permissions (`contents: write`, `pull-requests: write`) executed jobs without verifying the actor who triggered it, allowing potential authorization bypass from external forks.
+**Learning:** Workflows running on `pull_request_target` events execute in the context of the base repository. If they grant write permissions without verifying the actor, external attackers might trigger the workflow via a malicious PR, exploiting the granted permissions.
+**Prevention:** Always add an explicit actor check (`if: github.actor == 'RazorBackRoar'`) to jobs running on `pull_request_target` when utilizing write permissions, ensuring only trusted users can trigger them.

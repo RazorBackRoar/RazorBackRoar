@@ -14,6 +14,7 @@ permissions:
 jobs:
   automerge:
     name: Squash-merge Jules PRs
+    if: github.actor == 'RazorBackRoar'
     runs-on: ubuntu-latest
     steps:
       - name: Auto-merge Jules PR
