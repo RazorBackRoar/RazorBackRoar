@@ -7,3 +7,8 @@
 
 **Learning:** Image badges and stat trackers in README files are often wrapped in anchor tags. Without `alt` text on the `img` tags, screen readers only announce the URL which isn't helpful. Adding `alt` text makes the purpose of the stat image or badge immediately apparent.
 **Action:** Always ensure that informative or decorative images, particularly those acting as links, have appropriate `alt` attributes.
+
+## 2024-10-19 - [Clear Contact Instructions]
+
+**Learning:** Vague contact instructions like "give me a holler" are not actionable and can be confusing.
+**Action:** Always provide clear and actionable instructions for contacting the maintainer, directing users to the email on the GitHub profile.
