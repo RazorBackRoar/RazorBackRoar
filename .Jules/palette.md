@@ -7,3 +7,8 @@
 
 **Learning:** Image badges and stat trackers in README files are often wrapped in anchor tags. Without `alt` text on the `img` tags, screen readers only announce the URL which isn't helpful. Adding `alt` text makes the purpose of the stat image or badge immediately apparent.
 **Action:** Always ensure that informative or decorative images, particularly those acting as links, have appropriate `alt` attributes.
+
+## 2025-01-20 - [Clear Contact Instructions]
+
+**Learning:** Vague contact instructions like "give me a holler" are not actionable, especially for users relying on screen readers or those unfamiliar with idiomatic phrases. Directing users to a specific, available channel (like a profile email) improves usability.
+**Action:** Always provide clear, direct instructions for contact methods rather than ambiguous colloquialisms.
