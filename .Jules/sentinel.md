@@ -9,3 +9,9 @@
 **Vulnerability:** Workflows used inline template injection (`${{ github.head_ref }}`) inside `run` blocks for events (`pull_request_target`) where the reference is controlled by external users. This allowed arbitrary code execution.
 **Learning:** GitHub Actions templating is evaluated _before_ the bash script is run. Injecting un-sanitized context variables (like PR branches or titles) directly into scripts leads to command injection vulnerabilities.
 **Prevention:** Always map context variables (like `github.head_ref` or `github.event.pull_request.title`) to environment variables (`env:`) and reference them in bash as `$ENV_VAR`.
+
+## 2024-08-08 - Authorization Bypass in GitHub Actions via pull_request_target
+
+**Vulnerability:** A workflow running on `pull_request_target` (`Apps/Docs/jules-automerge.yml`) had `write` permissions but did not verify the actor of the pull request. This allowed any user (from an external fork) to trigger the workflow and execute authorized actions like merging PRs.
+**Learning:** Workflows triggered by `pull_request_target` with elevated permissions must explicitly verify the actor or repository owner. In this repository, the automerge workflow is specifically designed for PRs created by the user 'RazorBackRoar'.
+**Prevention:** Always add an explicit actor check (e.g., `if: github.actor == 'RazorBackRoar'`) to jobs running on `pull_request_target` that possess write permissions to prevent authorization bypass.
