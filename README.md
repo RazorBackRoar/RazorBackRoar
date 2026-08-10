@@ -12,8 +12,9 @@
 [![MetaBurn](https://img.shields.io/badge/MetaBurn-v1.0.0-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
 
 <br/>
+<!-- Added cache_seconds to reduce serverless cold starts on Vercel -->
 <a href="https://github.com/RazorBackRoar/RazorBackRoar">
-  <img height="180em" alt="RazorBackRoar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RazorBackRoar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="RazorBackRoar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RazorBackRoar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 </a>
 
 </div>
