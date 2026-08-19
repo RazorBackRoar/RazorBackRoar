@@ -4,14 +4,14 @@
 
 **Native macOS apps for Apple Silicon** — built with Python/PySide6, Rust/Tauri, and Swift/SwiftUI.
 
-[![4Charm](https://img.shields.io/badge/4Charm-v2.0.2-green?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/4Charm/releases)
-[![Nexus](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
-[![Papyrus](https://img.shields.io/badge/Papyrus-v1.0.5.0-blueviolet?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Papyrus/releases)
-[![RyuSync](https://img.shields.io/badge/RyuSync-v1.0.2-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
-[![Rusty](https://img.shields.io/badge/Rusty-v1.0.0-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Rusty/releases)
-[![L!bra](https://img.shields.io/badge/L!bra-v1.2.3-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
-[![Looper](https://img.shields.io/badge/Looper-v1.1.0-5B8DEF?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Looper/releases)
-[![MetaBurn](https://img.shields.io/badge/MetaBurn-v2.2.6-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
+[![4Charm latest release](https://img.shields.io/badge/4Charm-v2.0.2-green?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/4Charm/releases)
+[![Nexus latest release](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
+[![Papyrus latest release](https://img.shields.io/badge/Papyrus-v1.0.5.0-blueviolet?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Papyrus/releases)
+[![RyuSync latest release](https://img.shields.io/badge/RyuSync-v1.0.2-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
+[![Rusty latest release](https://img.shields.io/badge/Rusty-v1.0.0-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Rusty/releases)
+[![L!bra latest release](https://img.shields.io/badge/L!bra-v1.2.3-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
+[![Looper latest release](https://img.shields.io/badge/Looper-v1.1.0-5B8DEF?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Looper/releases)
+[![MetaBurn latest release](https://img.shields.io/badge/MetaBurn-v2.2.6-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
 
 <br/>
 <a href="https://github.com/RazorBackRoar/RazorBackRoar">
@@ -24,16 +24,16 @@
 
 <h2 align="center">Apps</h2>
 
-| App | What it does | Stack | Latest |
-| --- | --- | --- | --- |
-| [**4Charm**](https://github.com/RazorBackRoar/4Charm) | High-performance 4chan media downloader with smart organization and resume | Python · PySide6 | [v2.0.2](https://github.com/RazorBackRoar/4Charm/releases) |
-| [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
-| [**Papyrus**](https://github.com/RazorBackRoar/Papyrus) | Local OCR for PDFs and images with on-device MLX vision-language models | Python · PySide6 · MLX | [v1.0.5.0](https://github.com/RazorBackRoar/Papyrus/releases) |
-| [**RyuSync**](https://github.com/RazorBackRoar/RyuSync) | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview | Python · PySide6 | [v1.0.2](https://github.com/RazorBackRoar/RyuSync/releases) |
-| [**Rusty**](https://github.com/RazorBackRoar/Rusty) | Exact duplicate photo & video finder with BLAKE3 hashing and quarantine | Rust · Tauri 2 | [v1.0.0](https://github.com/RazorBackRoar/Rusty/releases) |
-| [**L!bra**](https://github.com/RazorBackRoar/Libra) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | [v1.2.3](https://github.com/RazorBackRoar/Libra/releases) |
-| [**Looper**](https://github.com/RazorBackRoar/Looper) | Minimal native video player with gapless looping | Swift · AppKit | [v1.1.0](https://github.com/RazorBackRoar/Looper/releases) |
-| [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | [v2.2.6](https://github.com/RazorBackRoar/MetaBurn/releases) |
+| App                                                       | What it does                                                               | Stack                  | Latest                                                        |
+| --------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------- |
+| [**4Charm**](https://github.com/RazorBackRoar/4Charm)     | High-performance 4chan media downloader with smart organization and resume | Python · PySide6       | [v2.0.2](https://github.com/RazorBackRoar/4Charm/releases)    |
+| [**Nexus**](https://github.com/RazorBackRoar/Nexus)       | Safari bookmark manager and batch URL opener                               | Python · PySide6       | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases)     |
+| [**Papyrus**](https://github.com/RazorBackRoar/Papyrus)   | Local OCR for PDFs and images with on-device MLX vision-language models    | Python · PySide6 · MLX | [v1.0.5.0](https://github.com/RazorBackRoar/Papyrus/releases) |
+| [**RyuSync**](https://github.com/RazorBackRoar/RyuSync)   | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview       | Python · PySide6       | [v1.0.2](https://github.com/RazorBackRoar/RyuSync/releases)   |
+| [**Rusty**](https://github.com/RazorBackRoar/Rusty)       | Exact duplicate photo & video finder with BLAKE3 hashing and quarantine    | Rust · Tauri 2         | [v1.0.0](https://github.com/RazorBackRoar/Rusty/releases)     |
+| [**L!bra**](https://github.com/RazorBackRoar/Libra)       | Local-first video organization toolkit (sort, rename, GPS / iPhone tools)  | Swift · SwiftUI        | [v1.2.3](https://github.com/RazorBackRoar/Libra/releases)     |
+| [**Looper**](https://github.com/RazorBackRoar/Looper)     | Minimal native video player with gapless looping                           | Swift · AppKit         | [v1.1.0](https://github.com/RazorBackRoar/Looper/releases)    |
+| [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally        | Swift · SwiftUI        | [v2.2.6](https://github.com/RazorBackRoar/MetaBurn/releases)  |
 
 All apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** (ad-hoc signed builds).
 
