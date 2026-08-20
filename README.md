@@ -32,7 +32,7 @@ Latest builds live on each repo's GitHub Releases.
 
 ## Contact
 
-If you need me, give me a holler.
+Open an issue on the relevant app repo, or email the address on my [@RazorBackRoar](https://github.com/RazorBackRoar) GitHub profile.
 
 - **Pronouns:** He/Him
 - **Location:** The South
