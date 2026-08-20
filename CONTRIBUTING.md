@@ -23,9 +23,7 @@ Do **not** file public issues for vulnerabilities. See [SECURITY.md](SECURITY.md
    (`feat:`, `fix:`, `docs:`, `chore:`, `test:`, `ci:`).
 
 Agent note: automated agents must not create branches, commit, push, open PRs,
-or delete branches unless the user explicitly asks for that Git action. In this
-workspace, `razor-autosync` may commit locally; publishing uses
-`RAZORCORE_AUTO_PUSH=1`.
+or delete branches unless the user explicitly asks for that Git action.
 
 ## Development Setup
 
@@ -41,4 +39,4 @@ This repository hosts the GitHub profile README for RazorBackRoar.
 ## License
 
 By contributing, you agree that your contributions are licensed under the same
-terms as this repository (see [LICENSE](LICENSE)).
+terms as this repository.
