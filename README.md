@@ -15,7 +15,8 @@
 
 <br/>
 <a href="https://github.com/RazorBackRoar/RazorBackRoar">
-  <img height="180em" alt="RazorBackRoar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RazorBackRoar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- ⚡ Bolt Optimization: Added cache_seconds=86400 to reduce Vercel serverless cold starts and improve load times -->
+  <img height="180em" alt="RazorBackRoar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RazorBackRoar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 </a>
 
 </div>
