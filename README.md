@@ -1,60 +1,38 @@
-<div align="center">
+## 👨‍💻 About me
 
-# RazorBackRoar
+I'm a guy in my 30s from the Deep South. I build native **macOS** apps for Apple Silicon — **Python** and **PySide6** for the desktop suite, **Rust** and **Tauri** when it needs to be fast, **Swift** and **SwiftUI** when it should feel like a Mac app.
 
-**Native macOS apps for Apple Silicon** — built with Python/PySide6, Rust/Tauri, and Swift/SwiftUI.
+I like shipping things people can actually download: a DMG, a right-click Open, done. Local-first. No account, no cloud, no telemetry.
 
-[![4Charm latest release](https://img.shields.io/badge/4Charm-v2.0.2-green?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/4Charm/releases)
-[![Nexus latest release](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
-[![Papyrus latest release](https://img.shields.io/badge/Papyrus-v1.0.5.0-blueviolet?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Papyrus/releases)
-[![RyuSync latest release](https://img.shields.io/badge/RyuSync-v1.0.2-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
-[![Rusty latest release](https://img.shields.io/badge/Rusty-v1.0.0-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Rusty/releases)
-[![L!bra latest release](https://img.shields.io/badge/L!bra-v1.2.3-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
-[![Looper latest release](https://img.shields.io/badge/Looper-v1.1.0-5B8DEF?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Looper/releases)
-[![MetaBurn latest release](https://img.shields.io/badge/MetaBurn-v2.2.6-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
+When I'm not writing apps, I'm usually knee-deep in a Switch library or tinkering with Ryujinx.
 
-<br/>
-<a href="https://github.com/RazorBackRoar/RazorBackRoar">
-  <!-- ⚡ Bolt Optimization: Added cache_seconds=86400 to reduce Vercel serverless cold starts and improve load times -->
-  <img height="180em" alt="RazorBackRoar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RazorBackRoar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-</a>
+## 📦 Apps I ship
 
-</div>
+Eight native Mac apps. All Apple Silicon DMGs. First launch: right-click → **Open** (ad-hoc signed).
 
----
+- 📥 **[4Charm](https://github.com/RazorBackRoar/4Charm)** — high-performance 4chan media downloader with smart folders and resume
+- 🔖 **[Nexus](https://github.com/RazorBackRoar/Nexus)** — Safari bookmark manager and batch URL opener
+- 📄 **[Papyrus](https://github.com/RazorBackRoar/Papyrus)** — local OCR for PDFs and images with on-device MLX models
+- 🎮 **[RyuSync](https://github.com/RazorBackRoar/RyuSync)** — Nintendo Switch `.nsp` / `.xci` organizer with Dry Mode
+- 🔍 **[Rusty](https://github.com/RazorBackRoar/Rusty)** — exact duplicate photo & video finder (BLAKE3, quarantine — never silent delete)
+- 🎬 **[L!bra](https://github.com/RazorBackRoar/Libra)** — local-first video organization (sort, rename, GPS / iPhone tools)
+- 🔁 **[Looper](https://github.com/RazorBackRoar/Looper)** — minimal native video player with gapless looping
+- 🔥 **[MetaBurn](https://github.com/RazorBackRoar/MetaBurn)** — strip EXIF, GPS, and device metadata from photos and videos, locally
 
-<h2 align="center">Apps</h2>
+Latest builds live on each repo's GitHub Releases.
 
-| App                                                       | What it does                                                               | Stack                  | Latest                                                        |
-| --------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------- |
-| [**4Charm**](https://github.com/RazorBackRoar/4Charm)     | High-performance 4chan media downloader with smart organization and resume | Python · PySide6       | [v2.0.2](https://github.com/RazorBackRoar/4Charm/releases)    |
-| [**Nexus**](https://github.com/RazorBackRoar/Nexus)       | Safari bookmark manager and batch URL opener                               | Python · PySide6       | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases)     |
-| [**Papyrus**](https://github.com/RazorBackRoar/Papyrus)   | Local OCR for PDFs and images with on-device MLX vision-language models    | Python · PySide6 · MLX | [v1.0.5.0](https://github.com/RazorBackRoar/Papyrus/releases) |
-| [**RyuSync**](https://github.com/RazorBackRoar/RyuSync)   | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview       | Python · PySide6       | [v1.0.2](https://github.com/RazorBackRoar/RyuSync/releases)   |
-| [**Rusty**](https://github.com/RazorBackRoar/Rusty)       | Exact duplicate photo & video finder with BLAKE3 hashing and quarantine    | Rust · Tauri 2         | [v1.0.0](https://github.com/RazorBackRoar/Rusty/releases)     |
-| [**L!bra**](https://github.com/RazorBackRoar/Libra)       | Local-first video organization toolkit (sort, rename, GPS / iPhone tools)  | Swift · SwiftUI        | [v1.2.3](https://github.com/RazorBackRoar/Libra/releases)     |
-| [**Looper**](https://github.com/RazorBackRoar/Looper)     | Minimal native video player with gapless looping                           | Swift · AppKit         | [v1.1.0](https://github.com/RazorBackRoar/Looper/releases)    |
-| [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally        | Swift · SwiftUI        | [v2.2.6](https://github.com/RazorBackRoar/MetaBurn/releases)  |
-
-All apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** (ad-hoc signed builds).
-
----
-
-<h2 align="center">About</h2>
-
-Southern developer building macOS-native tools — focused on the Apple ecosystem, clean UX, and software that stays out of your way.
-
-<h2 align="center">Stack</h2>
+## 🛠️ Tech I work with
 
 ![Python](https://img.shields.io/badge/python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-e8710a.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-e8710a?style=for-the-badge&logo=rust&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-d32f2f?style=for-the-badge&logo=apple&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-f5c518?style=for-the-badge&logo=tauri&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-Qt6-41cd52?style=for-the-badge&logo=qt&logoColor=white)
 
-<h2 align="center">Contact</h2>
+## Contact
 
 If you need me, give me a holler.
 
 - **Pronouns:** He/Him
-- **Location:** The South 🇺🇸
+- **Location:** The South
