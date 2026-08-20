@@ -23,7 +23,9 @@ Do **not** file public issues for vulnerabilities. See [SECURITY.md](SECURITY.md
    (`feat:`, `fix:`, `docs:`, `chore:`, `test:`, `ci:`).
 
 Agent note: automated agents must not create branches, commit, push, open PRs,
-or delete branches unless the user explicitly asks for that Git action.
+or delete branches unless the user explicitly asks for that Git action. In this
+workspace, `razor-autosync` may commit locally; publishing uses
+`RAZORCORE_AUTO_PUSH=1`.
 
 ## Development Setup
 
