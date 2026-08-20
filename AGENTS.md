@@ -1,12 +1,20 @@
-# Agents Guidelines
+# Agent Guidelines
 
-## Automated Agent & Jules Integration Guidelines
+## Repository Context
 
-- **Jules PR Auto-Merge**: Automated PRs created on branches starting with `sentinel-`, `bolt-`, or `palette-` are handled by GitHub Actions (`.github/workflows/jules-automerge.yml`).
-- **No Duplicate Issue/PR Reopening**: Jules subagents must verify existing closed and open PRs before proposing repetitive fixes or contact info updates.
-- **Branch Cleanup**: Head branches are deleted automatically upon squash-merge.
+This is a **documentation-only** GitHub profile repository. It contains no
+executable source code — only Markdown files (README, policies, and guides).
+Application source code lives in sibling repositories under the
+[RazorBackRoar](https://github.com/RazorBackRoar) organization.
 
-### Jules Autonomous Execution Rules
+## Rules for Automated Agents
 
-- **Auto-Approve Plans**: Automatically approve execution plans for background suggestions (testing, code health, performance). Do not pause or wait for human plan approval on routine refactoring.
-- **Batching**: Group related unit tests or code health fixes into a single PR rather than creating endless single-function PRs.
+1. **Do not create PRs without explicit user request.** No autonomous PRs.
+2. **Do not modify branch protections, workflows, or repo settings.**
+3. **One PR per intent.** Do not batch unrelated changes or duplicate existing PRs.
+4. **Verify before acting.** Check open and closed PRs before proposing a fix
+   that may already exist.
+5. **No security theater.** This repo has no executable code — do not file
+   security PRs about documentation files.
+6. **Conventional Commits.** Use `docs:`, `chore:`, `fix:` prefixes.
+7. **Keep diffs minimal.** Do not reformat files unless asked.
