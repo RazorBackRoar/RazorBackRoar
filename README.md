@@ -1,6 +1,6 @@
 ## 👨‍💻 About me
 
-I'm a guy in my 30s from the Deep South. I build native **macOS** apps for Apple Silicon — **Python** and **PySide6** for the desktop suite, **Rust** and **Tauri** when it needs to be fast, **Swift** and **SwiftUI** when it should feel like a Mac app.
+I'm a guy in my 30s from the Deep South. I build native **macOS** apps for Apple Silicon — **Python** and **PySide6** for the desktop suite, **Swift** and **SwiftUI** when it should feel like a Mac app.
 
 I like shipping things people can actually download: a DMG, a right-click Open, done. Local-first. No account, no cloud, no telemetry.
 
@@ -26,14 +26,12 @@ Latest builds live on each repo's GitHub Releases.
 
 ![Python](https://img.shields.io/badge/python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-e8710a?style=for-the-badge&logo=rust&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-d32f2f?style=for-the-badge&logo=apple&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-f5c518?style=for-the-badge&logo=tauri&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-Qt6-41cd52?style=for-the-badge&logo=qt&logoColor=white)
 
 ## Contact
 
-Open an issue on the relevant app repo, or email the address on my [@RazorBackRoar](https://github.com/RazorBackRoar) GitHub profile.
+If you need me, give me a holler.
 
 - **Pronouns:** He/Him
 - **Location:** The South
