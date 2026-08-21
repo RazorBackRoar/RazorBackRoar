@@ -8,16 +8,17 @@ When I'm not writing apps, I'm usually knee-deep in a Switch library or tinkerin
 
 ## 📦 Apps I ship
 
-Eight native Mac apps. All Apple Silicon DMGs. First launch: right-click → **Open** (ad-hoc signed).
+Nine native Mac apps. All Apple Silicon DMGs. First launch: right-click → **Open** (ad-hoc signed).
 
 - 📥 **[4Charm](https://github.com/RazorBackRoar/4Charm)** — high-performance 4chan media downloader with smart folders and resume
 - 🔖 **[Nexus](https://github.com/RazorBackRoar/Nexus)** — Safari bookmark manager and batch URL opener
 - 📄 **[Papyrus](https://github.com/RazorBackRoar/Papyrus)** — local OCR for PDFs and images with on-device MLX models
 - 🎮 **[RyuSync](https://github.com/RazorBackRoar/RyuSync)** — Nintendo Switch `.nsp` / `.xci` organizer with Dry Mode
-- 🔍 **[Rusty](https://github.com/RazorBackRoar/Rusty)** — exact duplicate photo & video finder (BLAKE3, quarantine — never silent delete)
+- 🔍 **[Swifter](https://github.com/RazorBackRoar/Swifter)** — ultra-fast, safe, native macOS duplicate photo and video finder in pure Swift 6 & SwiftUI
 - 🎬 **[L!bra](https://github.com/RazorBackRoar/Libra)** — local-first video organization (sort, rename, GPS / iPhone tools)
 - 🔁 **[Looper](https://github.com/RazorBackRoar/Looper)** — minimal native video player with gapless looping
 - 🔥 **[MetaBurn](https://github.com/RazorBackRoar/MetaBurn)** — strip EXIF, GPS, and device metadata from photos and videos, locally
+- 🌡️ **[SwiftTemp](https://github.com/RazorBackRoar/SwiftTemp)** — lightweight native macOS menu bar thermal monitor for Apple Silicon
 
 Latest builds live on each repo's GitHub Releases.
 
