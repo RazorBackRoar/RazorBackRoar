@@ -24,10 +24,10 @@ Latest builds live on each repo's GitHub Releases.
 
 ## 🛠️ Tech I work with
 
-![Python](https://img.shields.io/badge/python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-d32f2f?style=for-the-badge&logo=apple&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-Qt6-41cd52?style=for-the-badge&logo=qt&logoColor=white)
+![Python programming language badge](https://img.shields.io/badge/python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
+![Swift programming language badge](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![macOS operating system badge](https://img.shields.io/badge/mac%20os-d32f2f?style=for-the-badge&logo=apple&logoColor=white)
+![PySide6 Qt6 framework badge](https://img.shields.io/badge/PySide6-Qt6-41cd52?style=for-the-badge&logo=qt&logoColor=white)
 
 ## Contact
 
