@@ -10,6 +10,7 @@ Application source code lives in sibling repositories under the
 ## Local Automation & Workspace Sync
 
 In this workspace, local automated tools are configured:
+
 - `razor-autosync` may commit locally.
 - Remote publishing/pushing uses `RAZORCORE_AUTO_PUSH=1`.
 
