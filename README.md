@@ -11,7 +11,7 @@
 [![Nexus](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
 [![RyuSync](https://img.shields.io/badge/RyuSync-v1.0.2-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
 [![SwiftTemp](https://img.shields.io/badge/SwiftTemp-v1.0.0-c4711a?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/SwiftTemp/releases)
-[![Swifter](https://img.shields.io/badge/Swifter-v1.0.0-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Swifter/releases)
+[![Swifter](https://img.shields.io/badge/Swifter-v1.1.0-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Swifter/releases)
 
 <br/>
 </div>
@@ -29,7 +29,7 @@
 | [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
 | [**RyuSync**](https://github.com/RazorBackRoar/RyuSync) | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview | Python · PySide6 | [v1.0.2](https://github.com/RazorBackRoar/RyuSync/releases) |
 | [**SwiftTemp**](https://github.com/RazorBackRoar/SwiftTemp) | Lightweight native macOS menu bar thermal monitor for Apple Silicon | Swift · SwiftUI | [v1.0.0](https://github.com/RazorBackRoar/SwiftTemp/releases) |
-| [**Swifter**](https://github.com/RazorBackRoar/Swifter) | Ultra-fast exact duplicate photo & video finder with CryptoKit and quarantine | Swift · SwiftUI | [v1.0.0](https://github.com/RazorBackRoar/Swifter/releases) |
+| [**Swifter**](https://github.com/RazorBackRoar/Swifter) | Ultra-fast exact duplicate photo & video finder with CryptoKit and quarantine | Swift · SwiftUI | [v1.1.0](https://github.com/RazorBackRoar/Swifter/releases) |
 
 All apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** (ad-hoc signed builds).
 
