@@ -5,7 +5,7 @@
 **Native macOS apps for Apple Silicon**
 
 [![4Charm](https://img.shields.io/badge/4Charm-v2.0.2-green?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/4Charm/releases)
-[![Libra](https://img.shields.io/badge/Libra-v1.2.4-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
+[![Libra](https://img.shields.io/badge/Libra-v1.3.0-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
 [![Looper](https://img.shields.io/badge/Looper-v1.1.0-5B8DEF?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Looper/releases)
 [![MetaBurn](https://img.shields.io/badge/MetaBurn-v2.2.14-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
 [![Nexus](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
@@ -23,7 +23,7 @@
 | App | What it does | Stack | Latest |
 | --- | --- | --- | --- |
 | [**4Charm**](https://github.com/RazorBackRoar/4Charm) | High-performance 4chan media downloader with smart organization and resume | Python · PySide6 | [v2.0.2](https://github.com/RazorBackRoar/4Charm/releases) |
-| [**Libra**](https://github.com/RazorBackRoar/Libra) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | [v1.2.4](https://github.com/RazorBackRoar/Libra/releases) |
+| [**Libra**](https://github.com/RazorBackRoar/Libra) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | [v1.3.0](https://github.com/RazorBackRoar/Libra/releases) |
 | [**Looper**](https://github.com/RazorBackRoar/Looper) | Minimal native video player with gapless looping | Swift · AppKit | [v1.1.0](https://github.com/RazorBackRoar/Looper/releases) |
 | [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | [v2.2.14](https://github.com/RazorBackRoar/MetaBurn/releases) |
 | [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
