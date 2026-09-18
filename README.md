@@ -10,7 +10,7 @@
 [![MetaBurn](https://img.shields.io/badge/MetaBurn-v2.2.14-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
 [![Nexus](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
 [![RyuSync](https://img.shields.io/badge/RyuSync-v1.0.2-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
-[![SwiftTemp](https://img.shields.io/badge/SwiftTemp-v1.0.0-c4711a?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/SwiftTemp/releases)
+[![SwiftTemp](https://img.shields.io/badge/SwiftTemp-v1.0.1-c4711a?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/SwiftTemp/releases)
 [![Swifter](https://img.shields.io/badge/Swifter-v1.1.0-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Swifter/releases)
 
 <br/>
@@ -28,7 +28,7 @@
 | [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | [v2.2.14](https://github.com/RazorBackRoar/MetaBurn/releases) |
 | [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
 | [**RyuSync**](https://github.com/RazorBackRoar/RyuSync) | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview | Python · PySide6 | [v1.0.2](https://github.com/RazorBackRoar/RyuSync/releases) |
-| [**SwiftTemp**](https://github.com/RazorBackRoar/SwiftTemp) | Lightweight native macOS menu bar thermal monitor for Apple Silicon | Swift · SwiftUI | [v1.0.0](https://github.com/RazorBackRoar/SwiftTemp/releases) |
+| [**SwiftTemp**](https://github.com/RazorBackRoar/SwiftTemp) | Lightweight native macOS menu bar thermal monitor for Apple Silicon | Swift · SwiftUI | [v1.0.1](https://github.com/RazorBackRoar/SwiftTemp/releases) |
 | [**Swifter**](https://github.com/RazorBackRoar/Swifter) | Ultra-fast exact duplicate photo & video finder with CryptoKit and quarantine | Swift · SwiftUI | [v1.1.0](https://github.com/RazorBackRoar/Swifter/releases) |
 
 All apps ship as **Apple Silicon DMGs**. First launch: right-click → **Open** (ad-hoc signed builds).
