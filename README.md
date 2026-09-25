@@ -8,7 +8,7 @@
 [![Libra](https://img.shields.io/badge/Libra-v1.4.0-yellow?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/RazorBackRoar/Libra/releases)
 [![Looper](https://img.shields.io/badge/Looper-v1.1.1-5B8DEF?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Looper/releases)
 [![MetaBurn](https://img.shields.io/badge/MetaBurn-v2.2.14-critical?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/MetaBurn/releases)
-[![Nexus](https://img.shields.io/badge/Nexus-v2.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
+[![Nexus](https://img.shields.io/badge/Nexus-v3.0.0-purple?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Nexus/releases)
 [![RyuSync](https://img.shields.io/badge/RyuSync-v1.0.2-blue?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/RyuSync/releases)
 [![SwiftTemp](https://img.shields.io/badge/SwiftTemp-v1.0.1-c4711a?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/SwiftTemp/releases)
 [![Swifter](https://img.shields.io/badge/Swifter-v1.1.0-orange?style=for-the-badge&logo=apple)](https://github.com/RazorBackRoar/Swifter/releases)
@@ -26,7 +26,7 @@
 | [**Libra**](https://github.com/RazorBackRoar/Libra) | Local-first video organization toolkit (sort, rename, GPS / iPhone tools) | Swift · SwiftUI | [v1.4.0](https://github.com/RazorBackRoar/Libra/releases) |
 | [**Looper**](https://github.com/RazorBackRoar/Looper) | Minimal native video player with gapless looping | Swift · AppKit | [v1.1.1](https://github.com/RazorBackRoar/Looper/releases) |
 | [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | [v2.2.14](https://github.com/RazorBackRoar/MetaBurn/releases) |
-| [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v2.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
+| [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Python · PySide6 | [v3.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
 | [**RyuSync**](https://github.com/RazorBackRoar/RyuSync) | Nintendo Switch `.nsp` / `.xci` file organizer with Dry Mode preview | Python · PySide6 | [v1.0.2](https://github.com/RazorBackRoar/RyuSync/releases) |
 | [**SwiftTemp**](https://github.com/RazorBackRoar/SwiftTemp) | Lightweight native macOS menu bar thermal monitor for Apple Silicon | Swift · SwiftUI | [v1.0.1](https://github.com/RazorBackRoar/SwiftTemp/releases) |
 | [**Swifter**](https://github.com/RazorBackRoar/Swifter) | Ultra-fast exact duplicate photo & video finder with CryptoKit and quarantine | Swift · SwiftUI | [v1.1.0](https://github.com/RazorBackRoar/Swifter/releases) |
