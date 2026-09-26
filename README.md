@@ -44,7 +44,7 @@ A DMG, a right-click Open, and you're done.
 | [**4Charm**](https://github.com/RazorBackRoar/4Charm) | High-performance 4chan media downloader with smart organization and resume | Python · PySide6 | [v2.0.2](https://github.com/RazorBackRoar/4Charm/releases) |
 | [**Libra**](https://github.com/RazorBackRoar/Libra) | Local-first video toolkit for sort, rename, and City/GPS mapping | Swift · SwiftUI | [v1.4.0](https://github.com/RazorBackRoar/Libra/releases) |
 | [**Looper**](https://github.com/RazorBackRoar/Looper) | Minimal native video player with gapless looping | Swift · AppKit | [v1.1.1](https://github.com/RazorBackRoar/Looper/releases) |
-| [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | [v2.2.15](https://github.com/RazorBackRoar/MetaBurn/releases) |
+| [**MetaBurn**](https://github.com/RazorBackRoar/MetaBurn) | Strip EXIF, GPS, and device metadata from photos and videos locally | Swift · SwiftUI | [v2.2.14](https://github.com/RazorBackRoar/MetaBurn/releases) |
 | [**Nexus**](https://github.com/RazorBackRoar/Nexus) | Safari bookmark manager and batch URL opener | Swift · SwiftUI | [v3.0.0](https://github.com/RazorBackRoar/Nexus/releases) |
 | [**RyuSync**](https://github.com/RazorBackRoar/RyuSync) | Nintendo Switch `.nsp` / `.xci` organizer with a Dry Mode preview | Python · PySide6 | [v1.0.2](https://github.com/RazorBackRoar/RyuSync/releases) |
 | [**SwiftTemp**](https://github.com/RazorBackRoar/SwiftTemp) | Menu bar thermal monitor for Apple Silicon | Swift · SwiftUI | [v1.0.1](https://github.com/RazorBackRoar/SwiftTemp/releases) |
